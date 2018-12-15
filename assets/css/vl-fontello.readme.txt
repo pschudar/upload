@@ -1,0 +1,27 @@
+/**
+ * vLot Icons
+ *
+ * vLotIcons are a subset of Font Awesome by Dave Gandy
+ * Entypo by Daniel Bruce
+ * Brandico by Crowdsourced for the Fontello Project
+ * Web Symbols by Just Be Nice Studio
+ *
+ * This package of 139 Open Sourced Icons was put together online at
+ * http://fontello.com/
+ *
+ * It exists because Font Awesome is.. well.. Awesome! It is, however, a growing
+ * package and is quite large. I was only using a handful of the icons FA had 
+ * to offer. When it comes to web development - Size matters!
+ *
+ * @internal Font Awesome Copyright 2012 by Dave Gandy (Author)
+ * @internal Font Awesome Homepage:  http://fortawesome.github.com/Font-Awesome/
+ * @internal (http://fontawesome.io/license/)
+ * @internal Entypo Copyright 2012 by Daniel Bruce (Author)
+ * @internal Entypo Homepage: http://www.entypo.com
+ * @license http://scripts.sil.org/OFL GNU Public License Friendly
+ * @version 0.4
+ * @internal Created: 04.17.16 | Last Update: 05.28.18
+ *
+ * Most of the CSS below belongs to Font Awesome.
+ * @license http://opensource.org/licenses/mit-license.html
+ */
