@@ -24,4 +24,8 @@
  *
  * Most of the CSS below belongs to Font Awesome.
  * @license http://opensource.org/licenses/mit-license.html
+ *
+ * This was, of course, originally created for use in a project 
+ * called vLot that I am writing in PHP. It's a CMS, in essense, for auto dealers
+ * and will be licensed under the GPL 3.0 - probably.
  */
