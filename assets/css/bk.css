@@ -1,0 +1,59 @@
+body {
+    padding-top: 56px;
+}
+@media (min-width: 999px) {
+    body {
+        padding-top: 56px;
+    }
+}
+.btn-app {
+    border-radius: 3px;
+    position: relative;
+    padding: 15px 5px;
+    margin: 0 0 10px 10px;
+    min-width: 80px;
+    max-width: 80px;
+    overflow: hidden;
+    height: 60px;
+    text-align: center;
+    color: #666;
+    border: 1px solid #ddd;
+    background-color: #f4f4f4;
+    font-size: 12px;
+}
+.btn-app > .vl {
+    font-size: 20px;
+    display: block;
+}
+.btn-app:hover {
+    background: #f4f4f4;
+    color: #444;
+    border-color: #aaa;
+}
+.btn-app:active,
+.btn-app:focus {
+    -webkit-box-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    -moz-box-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    box-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+}
+.btn-app > .badge {
+    position: absolute;
+    top: -3px;
+    right: -10px;
+    font-size: 10px;
+    font-weight: 400;
+}
+.label-success {
+    background-color: #00a65a !important;
+}
+.label-warning {
+    background-color: #f39c12 !important;
+}
+.upstat {
+    display: none;
+    position: absolute;
+    left: 8%;
+    margin-top: -65px;
+    width: 74.5%;
+    opacity: 0.2
+}
