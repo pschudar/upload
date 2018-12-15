@@ -16,9 +16,9 @@ $messages = $loader->getMessages();
         <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
         <title>Backup Utility</title>
         <!-- Bootstrap -->
-        <link href="../vlot/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+        <link href="assets/css/bootstrap.min.css" rel="stylesheet">
         <!-- Fontello -->
-        <link href="../vlot/vendor/vl-fontello/css/vl-fontello.css" rel="stylesheet" type="text/css">
+        <link href="assets/css/vl-fontello.css" rel="stylesheet" type="text/css">
         <link href="assets/css/bk.css" rel="stylesheet" type="text/css">
 
         <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -110,9 +110,9 @@ $messages = $loader->getMessages();
                 </div>
             </div>
         </div>
-        <script src="../vlot/vendor/jquery/jquery.min.js"></script>
-        <script src="../vlot/vendor/bootstrap/js/bootstrap.min.js"></script>
-        <script src="../vlot/js/bootstrap-filestyle.js"></script>
+        <script src="assets/js/jquery.min.js"></script>
+        <script src="assets/js/bootstrap.min.js"></script>
+        <script src="assets/js/bootstrap-filestyle.js"></script>
         <script src="assets/js/bk.js"></script>
         <script src="assets/js/upload.js"></script>
     </body>
